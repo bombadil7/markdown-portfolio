@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+#### Some Worthwile Reading Material:
+* Linux Driver Development for Embedded Processors
+* Linux Programming Interface
+* 
