@@ -5,6 +5,6 @@
 ##### Header 5
 ###### Header 6 <angled brackets> `back ticks`
   Andrei is getting a **website**!  <angled brackets> `back ticks`
-  ![Sun Wukong]("monkey-king.jpg")
+  ![Sun Wukong]("../monkey-king.jpg")
   
 <h1>One more header for good measure</h1>
