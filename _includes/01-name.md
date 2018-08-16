@@ -1,6 +1,6 @@
 # I'm Getting Markdown
 ## Markdown 2
-### HEader 3
+### Header 3
 #### Header 4
 ##### Header 5
 ###### Header 6 <angled brackets> `back ticks`
